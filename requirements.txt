@@ -1,0 +1,6 @@
+Flask
+Flask-CORS
+camelot-py
+PyMuPDF
+langchain_community
+ollama
